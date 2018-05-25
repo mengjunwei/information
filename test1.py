@@ -8,3 +8,4 @@ if __name__ == '__main__':
     app.run()
 
     num = 15
+    num3 = 40
